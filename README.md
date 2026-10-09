@@ -12,3 +12,4 @@ GitHub Pages deployment package for the CLI Monitoring application.
 6. GitHub will publish the site at the repository Pages URL.
 
 The application is a static HTML application. Its current data storage/backup behavior remains browser-local unless a backend/database is added later.
+Deployment refresh - 10 October 2026
